@@ -11,39 +11,39 @@ Last updated : 15 August 2022
 
 |        |              App              | Npm | Python | 
 | ------------------- | --------------------------------- | ------- | ------------------------- |
-| Get information about profiles | ✅ |  ❌   |        ❌ |
-| Get detailed profile information | ✅ | ❌ | ❌ |
-| Delete profile | ✅ | ❌ | ❌ |
-| Delete multiple profiles | ✅ | ❌ | ❌ |
-| Get browser history | ✅ | ❌ | ❌ |
-| Upload cookies to profile | ✅ | ❌ | ❌ |
-| Create profile | ✅ | ✅ | ✅ |
-| Update profile | ✅ | ✅ | ✅ |
-| Show running profiles | ✅ | ❌ | ❌ |
-| Run profile | ✅ | ✅ | ✅ |
-| Stop profile | ✅ | ✅ | ✅ |
-| Cookie Manager | ✅ | ❌ | ❌ |
-| Get new fingerprint | ✅ | ✅ | ✅ |
-| Update fingerprint | ✅ | ❌ | ❌ |
-| Create profile with free proxy | ✅ | ✅ | ✅ |
-| Add proxy to profile | ✅ | ✅ | ✅ |
-| Delete proxy from profile | ✅ | ✅ | ✅ |
-| Delete account cache | ✅ | ❌ | ❌ |
-| Create API token | ✅ | ❌ | ❌ |
-| Delete API token | ✅ | ❌ | ❌ |
-| Get info about API token | ✅ | ❌ | ❌ |
-| Turn on quick-settings-steps | ✅ | ❌ | ❌ |
-| Show active sessions | ✅ | ❌ | ❌ |
-| Get info about timezone | ✅ | ✅ | ✅ | 
-| Get info about folders | ✅ | ❌ | ❌ |
-| Create new folder | ✅ | ❌ | ❌ |
-| Change folder name | ✅ | ❌ | ❌ |
-| Add profile to a folder | ✅ | ❌ | ❌ |
-| Delete profile from folder | ✅ | ❌ | ❌ |
-| Delete folder | ✅ | ❌ | ❌ |
-| Run profile in cloud | ✅ | ✅ | ✅ |
-| Stop profile in cloud | ✅ | ✅ | ✅ |
-| Get websocket debugging url profile | ❌ | ✅ | ✅ |
+| Get information about profiles | 🟢 |  ❌   |        ❌ |
+| Get detailed profile information | 🟢 | ❌ | ❌ |
+| Delete profile | 🟢 | ❌ | ❌ |
+| Delete multiple profiles | 🟢 | ❌ | ❌ |
+| Get browser history | 🟢 | ❌ | ❌ |
+| Upload cookies to profile | 🟢 | ❌ | ❌ |
+| Create profile | 🟢 | 🟢 | 🟢 |
+| Update profile | 🟢 | 🟢 | 🟢 |
+| Show running profiles | 🟢 | ❌ | ❌ |
+| Run profile | 🟢 | 🟢 | 🟢 |
+| Stop profile | 🟢 | 🟢 | 🟢 |
+| Cookie Manager | 🟢 | ❌ | ❌ |
+| Get new fingerprint | 🟢 | 🟢 | 🟢 |
+| Update fingerprint | 🟢 | ❌ | ❌ |
+| Create profile with free proxy | 🟢 | 🟢 | 🟢 |
+| Add proxy to profile | 🟢 | 🟢 | 🟢 |
+| Delete proxy from profile | 🟢 | 🟢 | 🟢 |
+| Delete account cache | 🟢 | ❌ | ❌ |
+| Create API token | 🟢 | ❌ | ❌ |
+| Delete API token | 🟢 | ❌ | ❌ |
+| Get info about API token | 🟢 | ❌ | ❌ |
+| Turn on quick-settings-steps | 🟢 | ❌ | ❌ |
+| Show active sessions | 🟢 | ❌ | ❌ |
+| Get info about timezone | 🟢 | 🟢 | 🟢 | 
+| Get info about folders | 🟢 | ❌ | ❌ |
+| Create new folder | 🟢 | ❌ | ❌ |
+| Change folder name | 🟢 | ❌ | ❌ |
+| Add profile to a folder | 🟢 | ❌ | ❌ |
+| Delete profile from folder | 🟢 | ❌ | ❌ |
+| Delete folder | 🟢 | ❌ | ❌ |
+| Run profile in cloud | 🟢 | 🟢 | 🟢 |
+| Stop profile in cloud | 🟢 | 🟢 | 🟢 |
+| Get websocket debugging url profile | ❌ | 🟢 | 🟢 |
 
 
  
