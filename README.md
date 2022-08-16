@@ -13,7 +13,7 @@ Last updated : 15 August 2022
 | ------------------- | --------------------------------- | ------- | ------------------------- |
 | Get information about profiles | 🟢 |  🔴   |        🔴 |
 | Get detailed profile information | 🟢 | 🔴 | 🔴 |
-| Delete profile | 🟢 | 🔴 | 🔴 |
+| Delete profile | 🟢 | 🟢 | 🟢 |
 | Delete multiple profiles | 🟢 | 🔴 | 🔴 |
 | Get browser history | 🟢 | 🔴 | 🔴 |
 | Upload cookies to profile | 🟢 | 🔴 | 🔴 |
