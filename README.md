@@ -7,7 +7,7 @@ API exists in **npm package**, as well as **python**.
 
 #### Сomparison table of api methods is presented below: ⏬ ⏬ ⏬
 
-Last updated : 15 August 2022
+Last updated : 16 August 2022
 
 |        |              App              | Npm | Python | 
 | ------------------- | --------------------------------- | ------- | ------------------------- |
@@ -25,9 +25,9 @@ Last updated : 15 August 2022
 | Cookie Manager | 🟢 | 🔴 | 🔴 |
 | Get new fingerprint | 🟢 | 🟢 | 🟢 |
 | Update fingerprint | 🟢 | 🔴 | 🔴 |
-| Create profile with free proxy | 🟢 | 🟢 | 🟢 |
-| Add proxy to profile | 🟢 | 🟢 | 🟢 |
-| Delete proxy from profile | 🟢 | 🟢 | 🟢 |
+| Create profile with free proxy | 🟢 | 🔴 | 🔴 |
+| Add proxy to profile | 🟢 | 🔴 | 🔴 |
+| Delete proxy from profile | 🟢 | 🔴 | 🔴 |
 | Delete account cache | 🟢 | 🔴 | 🔴 |
 | Create API token | 🟢 | 🔴 | 🔴 |
 | Delete API token | 🟢 | 🔴 | 🔴 |
